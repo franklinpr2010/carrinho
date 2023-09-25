@@ -13,10 +13,10 @@ Este pequeno projeto é parte do material didático da disciplina Desenvolviment
 <br /> cd .\virtualmachine\Scripts\ 
 
 4 - Rode o comando para instalar as dependências
-pip -r requirements.txt
+<br /> pip -r requirements.txt
 
 5 - Execute o projeto:
-py [diretódio do projeto]/app.py
+<br /> py [diretódio do projeto]/app.py
 
 Acesse: http://127.0.0.1:5003
 
