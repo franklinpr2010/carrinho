@@ -1,5 +1,5 @@
 
-# carrinho api
+# Carrinho api
 Este pequeno projeto é parte do material didático da disciplina Desenvolvimento Full Stack Avançado da PUC-Rio. Está api se destina ao cadastro de pedidos e o carrinho vinculados ao cliente.
 
 <br />Rode os seguintes comandos na maquina local:
